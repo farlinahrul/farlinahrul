@@ -7,8 +7,8 @@
 <br>
 <br>
 <p align="left">
-  <img width="49.5%" src="https://gitlab-readme-stats.vercel.app/api?username=farlinahrul&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://gitlab-readme-streak-stats.herokuapp.com/?user=farlinahrul&theme=gruvbox&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=farlinahrul&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=farlinahrul&theme=gruvbox&hide_border=true" />
 </p>
 
 Credit: [farlinahrul](https://www.linkedin.com/in/farlinahrul/)
